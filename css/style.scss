@@ -1,28 +1,27 @@
-@charset "UTF-8";
+@charset "utf-8";
+
 /* 共通部分 */
-html {
+html{
   font-size: 100%;
 }
-
-body {
-  font-family: "Yu Gothic Medium","游ゴシック Medium","游ゴシック体","ヒラギノ角ゴ Pro M3","sans-serif";
+body{
+  font-family:"Yu Gothic Medium","游ゴシック Medium","游ゴシック体","ヒラギノ角ゴ Pro M3","sans-serif";
   line-height: 1.7;
-  color: #432;
+  color:#432;
 }
-
-a {
+a{
   text-decoration: none;
 }
-
-img {
+img{
   min-width: 100%;
 }
 
 /* ----------------------------------- 
              HEADER部分               
 ----------------------------------- */
-.logo {
-  width: 210px;
+.logo{
+  width:210px;
   margin-top: 14px;
 }
-/*# sourceMappingURL=style.css.map */
+
+
