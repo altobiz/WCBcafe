@@ -101,9 +101,8 @@ img {
 }
 
 #home {
-  background-image: url(../images/main-bg.jpg);
-  background-color: #0bd;
-  background-blend-mode: hard-light;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#c9ffbf), to(#ffafbd));
+  background-image: linear-gradient(#c9ffbf, #ffafbd);
   min-height: 100vh;
 }
 /*# sourceMappingURL=style.css.map */
