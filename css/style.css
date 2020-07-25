@@ -90,6 +90,10 @@ img {
   padding: 18px 32px;
 }
 
+.button:hover {
+  background: #0090aa;
+}
+
 .big-bg {
   background-size: cover;
   background-position: center top;

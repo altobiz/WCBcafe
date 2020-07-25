@@ -80,6 +80,9 @@ img{
   color:#fff;
   border-radius: 5px;
   padding: 18px 32px;
+  &:hover{
+    background:#0090aa;
+  }
 }
 
 // 大きな背景画像
